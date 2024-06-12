@@ -1,2 +1,2 @@
 def print_hello():
-    print('hello')
+    print('안녕')
